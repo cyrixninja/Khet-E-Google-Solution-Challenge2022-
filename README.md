@@ -2,6 +2,11 @@
 
 ## Inspiration
 According to the UN, Nearly 1/2 of all fruit & vegetables produced globally are wasted each year. With decreasing energy and resources across the planet, **Khet-E** was made to promote better yield among farmers and better health among malnourished people and animals. Also, we know that it might be difficult for farmers to use websites, we have integrated the functionalities of this website in the form of a WhatsApp Bot as well in order to reach a greater target audience.
+
+## Google Services Used
+App Engine- We used App Engine for Deployment of our project.App Engine is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, and then let App Engine take care of provisioning servers and scaling your app instances based on demand.We deployed our python Flask App on Google Cloud which will enable us to scape up easily according to our needs.
+
+Google Maps API- We used Google Maps API for the map feature of our app.Google Maps API is a set of application programming interfaces that lets us talk to its services. It will allow us to build simple apps to very sophisticated location-based apps for Web, iOS, and Android.It allowed us to easily integrate map in our project.It is very much easy to deploy than other alternatives such as MapBox
 ## What the Card Does
 	The card for Augmented Reality-
   When the AR card is scanned, the user is directed to any one of the of four symbols that represent valued services:
